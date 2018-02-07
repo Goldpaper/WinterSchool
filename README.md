@@ -1,1 +1,3 @@
-# WinterSchool
+# Winter School Project - 
+
+Not yet
