@@ -1,3 +1,1 @@
-# Winter School Project - 
-
-Not yet
+# Winter School Project - AI Gender Detect Program
